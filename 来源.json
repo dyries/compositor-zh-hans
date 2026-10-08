@@ -1,0 +1,10 @@
+{
+  "source": "https://github.com/robbietilton/Compositor",
+  "commit": "11d8d7a50992b24fd9a760a1c13b1c01b70aaf30",
+  "version": "1.4.5",
+  "build": "40",
+  "translation_resources": 1298,
+  "date": "2026-10-07",
+  "bundle_identifier": "com.wonderassembly.compositor",
+  "application_folder_identity_preserved": true
+}

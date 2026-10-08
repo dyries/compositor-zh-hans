@@ -1,0 +1,12 @@
+.DS_Store
+._*
+__MACOSX/
+.build/
+build/
+work-build/
+model-validation/
+*.app/
+*.zip
+DerivedData/
+xcuserdata/
+*.xcuserstate
